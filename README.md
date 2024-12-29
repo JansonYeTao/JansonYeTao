@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/jansonboss?width=500&height=800&theme=dark&font=DM%20Sans&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/jansonboss?width=800&height=400&theme=dark&font=DM%20Sans&ext=heatmap)
 
 <!--
 **JansonYeTao/JansonYeTao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
